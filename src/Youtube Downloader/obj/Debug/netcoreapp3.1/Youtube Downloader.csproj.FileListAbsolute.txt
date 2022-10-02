@@ -1,0 +1,22 @@
+C:\Users\Rift\source\repos\Youtube Downloader\Youtube Downloader\bin\Debug\netcoreapp3.1\Youtube Downloader.exe
+C:\Users\Rift\source\repos\Youtube Downloader\Youtube Downloader\bin\Debug\netcoreapp3.1\Youtube Downloader.deps.json
+C:\Users\Rift\source\repos\Youtube Downloader\Youtube Downloader\bin\Debug\netcoreapp3.1\Youtube Downloader.runtimeconfig.json
+C:\Users\Rift\source\repos\Youtube Downloader\Youtube Downloader\bin\Debug\netcoreapp3.1\Youtube Downloader.runtimeconfig.dev.json
+C:\Users\Rift\source\repos\Youtube Downloader\Youtube Downloader\bin\Debug\netcoreapp3.1\Youtube Downloader.dll
+C:\Users\Rift\source\repos\Youtube Downloader\Youtube Downloader\bin\Debug\netcoreapp3.1\Youtube Downloader.pdb
+C:\Users\Rift\source\repos\Youtube Downloader\Youtube Downloader\bin\Debug\netcoreapp3.1\MediaToolkit.dll
+C:\Users\Rift\source\repos\Youtube Downloader\Youtube Downloader\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Rift\source\repos\Youtube Downloader\Youtube Downloader\bin\Debug\netcoreapp3.1\NiL.JS.dll
+C:\Users\Rift\source\repos\Youtube Downloader\Youtube Downloader\bin\Debug\netcoreapp3.1\libvideo.dll
+C:\Users\Rift\source\repos\Youtube Downloader\Youtube Downloader\obj\Debug\netcoreapp3.1\Youtube Downloader.csproj.AssemblyReference.cache
+C:\Users\Rift\source\repos\Youtube Downloader\Youtube Downloader\obj\Debug\netcoreapp3.1\Youtube_Downloader.Form1.resources
+C:\Users\Rift\source\repos\Youtube Downloader\Youtube Downloader\obj\Debug\netcoreapp3.1\Youtube_Downloader.Properties.Resources.resources
+C:\Users\Rift\source\repos\Youtube Downloader\Youtube Downloader\obj\Debug\netcoreapp3.1\Youtube Downloader.csproj.GenerateResource.cache
+C:\Users\Rift\source\repos\Youtube Downloader\Youtube Downloader\obj\Debug\netcoreapp3.1\Youtube Downloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rift\source\repos\Youtube Downloader\Youtube Downloader\obj\Debug\netcoreapp3.1\Youtube Downloader.AssemblyInfoInputs.cache
+C:\Users\Rift\source\repos\Youtube Downloader\Youtube Downloader\obj\Debug\netcoreapp3.1\Youtube Downloader.AssemblyInfo.cs
+C:\Users\Rift\source\repos\Youtube Downloader\Youtube Downloader\obj\Debug\netcoreapp3.1\Youtube Downloader.csproj.CoreCompileInputs.cache
+C:\Users\Rift\source\repos\Youtube Downloader\Youtube Downloader\obj\Debug\netcoreapp3.1\Youtube Downloader.csproj.CopyComplete
+C:\Users\Rift\source\repos\Youtube Downloader\Youtube Downloader\obj\Debug\netcoreapp3.1\Youtube Downloader.dll
+C:\Users\Rift\source\repos\Youtube Downloader\Youtube Downloader\obj\Debug\netcoreapp3.1\Youtube Downloader.pdb
+C:\Users\Rift\source\repos\Youtube Downloader\Youtube Downloader\obj\Debug\netcoreapp3.1\Youtube Downloader.genruntimeconfig.cache

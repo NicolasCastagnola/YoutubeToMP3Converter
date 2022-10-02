@@ -1,0 +1,9 @@
+C:\Users\Rift\Desktop\Youtube Downloader.exe
+C:\Users\Rift\Desktop\Youtube Downloader.dll
+C:\Users\Rift\Desktop\Youtube Downloader.deps.json
+C:\Users\Rift\Desktop\Youtube Downloader.runtimeconfig.json
+C:\Users\Rift\Desktop\Youtube Downloader.pdb
+C:\Users\Rift\Desktop\MediaToolkit.dll
+C:\Users\Rift\Desktop\Newtonsoft.Json.dll
+C:\Users\Rift\Desktop\NiL.JS.dll
+C:\Users\Rift\Desktop\libvideo.dll
